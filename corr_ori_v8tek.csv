@@ -1,0 +1,827 @@
+HOLEID,DEPTH,INCL,AZI,TYPE,DESC
+818RP0005,213.48,67,125,vn,q
+818RP0006,263.35,53,135,FW,q cor py bm 
+818RP0006,265.6,76,257,HW,q cor py bm 
+818RP0006,314.9,44,124,vn,q cl am bm
+818RP0006,329.6,30,326,splay,q am ine cl bm
+818RP0006,371.4,61,312,vn,q ine am bm
+820CP0415,133.52,57,126,vn,q py
+820CP0415,134,42,264,vn,q py
+820CP0415,136,65,297,vn,q py
+820CP0415,154.2,64,273,vn,q py
+820CP0415,172,82,296,vn,q
+820CR0607,67.6,40,160,vn,q py
+820CR0607,82.4,74,291,vn,q ca
+820CR0607,96.1,38,268,vn,q py
+820CR0607,110.4,57,278,vn,q am py cor bm
+820CR0607,133.25,67,265,vn,q py
+820CR0608,81.13,87,329,vn,q cor bm
+820CR0608,90,38,276,f,cl
+820CR0611,68.27,71,299,vn,q cl py
+820CR0611,87.98,80,291,vn,q
+820CR0611,133.03,61,238,splay,q py
+820CR0611,165.78,77,310,vn,q cor py bm 
+820CR0611,177.85,81,266,vn,q cor bm
+820CR0612,97.44,82,331,sh,
+820CR0612,123,72,80,vn,q cor bm
+820CR0612,158.83,54,321,vn,q cor bm
+820CR0617,86.98,69,269,vb,q
+820CR0617,88.9,53,287,sh,cl py
+820CR0617,120.13,61,70,vn,q py am ca
+820CR0617,141.62,61,303,vn,q cor py bm 
+820CR0617,143.6,45,258,vn,q cor py bm 
+820CR0619,114.28,55,313,vn,q cl am cor py bm
+820CR0619,116.98,57,293,vn,q cl am cor py bm
+820CR0619,154.05,87,74,HW,q cl cor py bm
+820CR0619,158.7,48,246,vn,q cl cor py bm
+820CR0619,164.9,76,241,vn,q cl cor py bm
+820CR0619,166.75,61,286,vn,q
+820CR0619,170.99,64,327,vn,q am cl py bm
+820CR0619,183.37,50,335,vn,q ca am cor py rf
+820RS0001,100.5,90,160,vn,q
+820RS0001,105.23,72,317,vn,q
+820RS0001,114.1,75,339,vn,q
+820RS0001,128.3,63,303,vn,q
+820RS0001,170.6,81,104,vn,q cor py
+820RS0002,99.1,83,262,vn,q cor py bm 
+820RS0002,104.7,53,259,vn,q py
+844CP0546,145.75,86,335,vn,q
+844CP0546,115,54,240,vn,q cor py bm 
+844CP0546,172.95,53,52,vn,q cor py bm
+844CP0546,180.8,83,253,vn,q cor
+844CP0546,195.26,90,71,HW,cor q bm py
+844CR0501,248.9,76,270,FW,q cl
+844CR0501,251.8,69,90,intvb,q cor bm
+844CR0501,257.68,36,54,intvb,q ine
+844CR0501,68.35,71,326,vn,q chl cl py bm
+844CR0501,133.34,72,274,vn,q am corr cl py bm
+844CR0501,212.08,62,72,vn,q ca ine cor
+844CR0501,216.8,78,220,vn,q ca corr ine cl py bm
+844CR0501,222.68,82,109,vn,q ca corr ine cl py bm
+844CR0501,228.17,61,333,vn,q ca corr ine cl py bm
+844CR0501,228.43,53,0,vn,q ca corr ine cl py bm
+844CR0501,231.1,59,346,vn,q ca corr ine cl py bm
+844CR0502,295.66,24,216,FW,q am cor ine py bm
+844CR0502,303.39,66,244,HW,q am cor ine py bm
+844CR0502,122.4,75,174,vn,q am cor ca py bm
+844CR0502,130.7,87,257,vn,q ca py 
+844CR0502,155.16,42,323,vn,bx
+844CR0502,267.67,59,64,vn,q cor cl py bm
+844CR0502,268.32,71,58,vn,q cor cl py bm
+844CR0502,284.95,58,246,vn,q ca py
+844CR0503,195,56,228,vn,q am cor ca py bm
+844CR0503,215.83,30,326,vn,q am cor ca py bm
+844CR0503,266.05,76,94,FW,q cor bm
+844CR0503,267.6,88,87,HW,q cor bm
+844CR0503,246.15,85,227,vn,q cor py bm
+844CR0503,220.42,71,281,vn,q cor py bm
+844CR0503,223.56,64,280,vn,q cor py bm
+844CR0503,221.25,63,222,vn,q cor py bm
+844CR0503,227.2,86,52,vn,q py
+844CR0503,231.8,70,258,vn,q am
+844CR0503,234.8,25,47,vn,q am cor cl py
+844CR0503,243.12,73,250,vn,q ca corr cl py bm
+844CR0503,243.8,78,48,vn,q am py
+844CR0503,246.3,77,227,vn,q cor py ine bm
+844CR0503,246.7,75,218,vn,q cor py ine bm
+844CR0504,331.84,69,242,FW,q am cor ca py bm
+844CR0504,338.38,63,246,intvb,q am cor ca py bm
+844CR0504,185.35,85,161,vn,q am cor ine py bm
+844CR0504,238.15,60,143,vn,q ca am cor ine py bm
+844CR0504,242.87,51,355,vn,q cor py bm
+844CR0504,291.68,47,86,vn,q am cor py bm
+844CR0504,320.96,82,206,vn,q ca
+844CR0505,317.5,82,250,intvb,q am cor ine py bm
+844CR0505,320.87,87,246,HW,q am cor ine py bm
+844CR0505,153.09,60,97,vn,q ca am py bm
+844CR0505,208.32,71,126,vn,q py qapc
+844CR0505,255.76,68,172,vn,q cor cl py bm
+844CR0505,274.95,58,18,vn,q cor py
+844CR0505,304.78,70,73,vn,q am cor py bm
+844CR0505,308.4,90,60,vn,q py
+844CR0505,311.2,86,250,vn,q py
+844CR0506,313.49,89,70,FW,q am cor ine py bm
+844CR0506,316.69,69,263,splay,q py am
+844CR0506,319.95,81,235,splay,q cor py bm
+844CR0506,55.67,22,200,vn,q am ca py
+844CR0506,66.52,89,285,vn,q am ca py
+844CR0506,88.83,39,108,vn,q am ca py
+844CR0506,198.7,79,289,vn,q ca py
+844CR0506,200.38,59,212,vn,q ca cor cl py bm
+844CR0506,254.5,46,57,vn,silicic shear zone
+844CR0506,256.8,40,29,vn,Vn DHC
+844CR0506,280.93,77,250,vn,q cor cl py bm
+844CR0506,282.6,72,255,vn,q cor cl py bm
+844CR0506,294.66,71,273,vn,q ca am py bm
+844CR0507,367.5,77,256,FW,q am cor ine py bm
+844CR0507,373.62,79,68,HW,q am cor ine py bm
+844CR0507,131.11,76,225,vn,q ca am
+844CR0507,161.55,84,258,vn,q ca am py
+844CR0507,327.8,89,153,vn,q ca cor cl py bm
+844CR0507,329.4,78,336,vn,q py
+844CR0507,362.8,70,86,vn,intvn
+844CR0507,365.34,70,86,vn,q ine cor py
+844CR0507,366.06,70,147,vn,q ca py
+844CR0538,264,54,260,FW,q corr cl py bm
+844CR0538,272,84,245,HW,q corr cl py bm
+844CR0538,118.9,63,46,vn,q cor am py bm
+844CR0538,236.73,83,257,vn,q ca corr cl py bm
+844CR0538,246.86,80,276,vn,q am py ine bm
+844CR0538,255.53,85,263,vn,q corr cl py bm
+844CR0538,256.3,68,90,vn,q corr cl py bm
+844CR0538,257,89,96,vn,q corr cl py bm
+844CR0538,260.7,76,73,vn,q corr cl py bm
+844CR0538,297.18,55,190,vn,q ca corr py bm
+844CR0539,239.15,77,265,FW,q cor ca py bm
+844CR0539,244,82,106,intvn,q cor ca py bm
+844CR0539,247.03,89,93,HW,q cor ca py bm
+844CR0539,199.03,87,265,vn,q cor py ine bm
+844CR0539,146.03,56,210,vn,q cor am py bm
+844CR0540,169.42,76,277,vn,q cor py ine bm
+844CR0540,180.63,77,268,vn,q cor py ine bm
+844CR0540,179.96,89,147,vn,q ca am py
+844CR0540,234.19,73,76,FW,q cor bm
+844CR0540,240.27,88,79,HW,q cor bm
+844CR0540,213.1,76,60,vn,q corr cl py bm
+844CR0540,214,55,227,vn,q corr cl py bm
+844CR0540,227.93,41,273,vn,q cor py ine bm rf
+844CR0544,79.33,84,284,vn,q am cl py
+844CR0544,118.46,66,263,vn,q am cl py
+844CR0544,141.79,74,286,HW,crx VB
+844CR0544,143.5,84,256,FW,crb
+844CR0544,155.04,52,201,vn,q cor py ine
+844CR0544,180.25,83,351,vn,q am cl py bm
+844CR0544,195.72,70,27,FW,q cor py
+844CR0544,197.44,90,47,HW,q cor py
+844CR0545,66.82,59,293,vn,q bm py
+844CR0545,111.35,67,315,link,q py ine bm lim cor mn
+844CR0545,113.8,66,312,link,q py ine bm lim cor mn
+844CR0545,167.46,46,256,HW,q py
+844SP0573,96.14,51,275,intvn,q cor ine py bm
+844SP0573,98.5,54,153,splay,q cor ine py bm
+844SP0573,100.63,90,262,intvn,q cor ine py bm
+844SP0573,10.47,80,254,vn,ca py
+844SP0573,40.44,72,143,vn,ca py
+844SP0573,46.24,78,121,vn,q ca am py
+844SP0573,85,86,288,vn,q am cor py bm
+844SP0573,94.53,81,272,vn,q cor py
+844SP0598,93.95,57,260,HW,q ine cor py ca bm
+844SP0598,95.58,69,279,FW,q ine cor py ca bm
+844SP0598,134.3,69,272,vn,q ca am cor py bm
+844SP0598,149.55,0,68,HW,q cor py
+844SP1CP0550A,18.85,70,266,vn,q am py lim
+844SP1CP0550A,74,65,27,vn,q lim py mn am
+844SP1CP0550A,74.38,82,89,vn,q lim py mn am
+844SP1CP0550A,121.95,86,107,vn,q lim 
+844SP1CP0550A,161.22,62,301,vn,q py
+844SP1CR0620,68.34,82,236,vn,q cl am py
+844SP1CR0620,70.07,51,251,vn,q cl am py
+844SP1CR0620,95.69,76,263,FW,q ine cor py ca bm
+844SP1CR0620,96.22,81,266,HW,q ine cor py ca bm
+844SP1CR0620,166.05,76,294,vn,q ca 
+844SP1CR0620,170.54,68,96,FW,q py bm cor
+844SP1CR0621,50.55,77,318,vn,q ca py lim
+844SP1CR0621,51.56,58,269,vn,q am cl py cor bm
+844SP1CR0621,52.72,80,52,vn,q lim py
+844SP1CR0621,60.53,78,275,vn,q ca py
+844SP1CR0621,61.71,83,216,vn,q ca cor py
+844SP1CR0621,81.57,75,278,vn,q am cl py cor bm
+844SP1CR0621,82.4,85,277,vn,q am cl py cor bm ine
+844SP1CR0621,127.3,71,298,vn,q py
+844SP1CR0621,150.65,78,269,vn,q ca cor py
+844SP1CR0621,157.87,81,101,vn,q ca py
+844SP1CR0621,159.64,71,249,vn,q py am ca
+844SP1CR0621,165,78,259,FW,q py ca am
+844SP1CR0631,53.56,65,288,vn,q cor
+844SP1CR0631,98.04,79,195,vn,q
+844SP1CR0631,123.88,50,263,vn,q cor am py
+844SP1CR0631,129.06,77,53,vn,q cor am py
+844SP1CR0631,142.46,52,312,vn,q am py
+844SP1CR0631,165.1,81,74,FW,q cor bm
+844SP1CR0632,54.1,61,290,vn,q
+844SP1CR0632,64.15,70,308,vn,q lim mn ine
+844SP1CR0632,67.07,54,282,vn,q lim mn ine
+844SP1CR0632,73.45,60,249,vn,q lim mn cor bm
+844SP1CR0632,83.45,53,237,vn,q lim py
+844SP1CR0632,106.4,66,266,vn,q
+844SP1CR0632,146.1,76,288,vn,q cor bm
+844SP1CR0632,150.33,39,213,vn,q ca py
+844SP1CR0632,152.2,76,84,vn,q am cor sl
+844SP1CR0632,152.8,78,316,vn,q ca am
+844SP1CR0632,155.14,80,203,vn,q ine py
+844SP1CR0632,155.42,64,86,vn,q ca
+844SP1CR0632,156.93,52,262,vn,q cor am py bm
+844SP1CR0632,158.27,63,276,vn,q ine py bm ca
+844SP1CR0632,171.1,88,47,vb,q cor bm
+844SP1CR0632,172.35,85,230,vn,q cor bm
+844SP1CR0632,173.5,57,272,vn,q cor bm am
+844SP1CR0632,173.67,84,270,vn,q cor bm
+844SP1CR0632,173.95,75,251,vn,q cor bm
+844SP1CR0632,174.9,47,244,fl,gouge
+844SP2CR0547,154.78,89,29,FW,q cor bm
+844SP2CR0547,156,67,82,intvb,q cor bm
+844SP2CR0547,165,77,187,vn,q cor py bm
+844SP2CR0548,168.1,70,216,FW,cor q py cht
+844SP2CR0548,172.36,67,93,intvn,cor q py cht
+844SP2CR0548,148.8,70,221,vn,q am ca py
+844SP2CR0551,165.18,58,294,HW,cor q bm py 
+844SP2CR0551,115.6,43,303,vn,q cor py bm
+844SP2CR0551,81.06,67,277,vn,q cor py bm
+844SP2CR0552,105.73,90,269,HW,q cor cl ine py bm am
+844SP2CR0552,108.1,88,273,intvb,q cor cl ine py bm am
+844SP2CR0552,119.73,66,272,vn,q cor am py bm
+844SP2CR0552,155.9,83,254,vn,q cor py bm
+844SP2CR0554,149.77,75,271,FW,cor q bm py 
+844SP2CR0554,158.3,78,277,HW,cor q bm py 
+844SP2CR0554,130.28,78,99,vn,q cor py bm
+844SP2CR0556,147.8,65,265,intvn,q cor py ine
+844SP2CR0556,149.92,79,250,intvn,q cor py ine
+844SP2CR0556,144.48,79,78,vn,q am py bm
+844SP2CR0557,161.37,85,71,FW,cor q bm py
+844SP2CR0561,33.63,50,234,vn,q cor bm
+844SP2CR0561,101.89,87,29,vn,q py ca
+844SP2CR0561,125.41,47,13,vn,q cor py ine bm
+844SP2CR0561,126.91,60,281,vn,q cor py ine bm
+844SP2CR0561,161.65,31,275,splay,q am cl py
+844SP2CR0561,164,80,88,FW,q cor py
+844SP2CR0562,114.37,71,271,vn,q cor py ine bm
+844SP2CR0562,122.64,78,18,vn,q cor py ine bm
+844SP2CR0565,84.33,82,249,vn,q ca ine py
+844SP2CR0565,96.3,71,264,FW,q cor py ine
+844SP2CR0565,98.93,81,264,intvn,q cor py ine
+844SP2CR0565,149.92,79,250,FW,q cor py ine
+844SP2CR0565,151.83,63,59,Intvn,q cor py ine
+844SP2CR0609,30.75,64,295,vn,q ca cor py sl
+844SP2CR0609,90.2,76,270,vn,ine q py
+844SP2CR0609,97.34,82,259,vn,ine q ca
+844SP2CR0609,98.65,86,245,vn,cor q bm py
+844SP2CR0609,137.95,85,90,FW,q cor bm
+844SP2CR0609,147.55,31,103,link,q cor bm
+844SP2CR0609,148.5,78,65,HW,q cor bm
+844SP2CR0613,27.14,75,225,vn,q ca cor
+844SP2CR0613,27.71,63,247,vn,q ca cor
+844SP2CR0613,86.76,73,261,vn,q cl am ine py
+844SP2CR0613,96.71,68,50,vn,q cl am ine py
+844SP2CR0613,137.37,73,228,vn,q cl am ine py
+844SP2CR0613,146.07,81,284,vn,q cor py bm
+844SP2CR0614,31.7,80,112,vn,q cor
+844SP2CR0614,84.7,85,66,vn,q am ine ca
+844SP2CR0614,96.54,80,53,vn,q cor bm py ine
+844SP2CR0614,125.2,71,99,vn,q ca
+844SP2CR0614,144.8,76,282,intvn,q cor bm py ine
+844SP2CR0614,147,81,106,intvb,q cor bm py ine
+844SP2CR0616,98.12,57,115,vn,q ine py
+844SP2CR0616,96.48,81,258,vn,q py am ca
+844SP2CR0616,102.77,87,250,HW,q am cor py bm ine
+844SP2CR0622,22.94,84,101,vn,q
+844SP2CR0622,114,78,247,vn,q ca cor ine am py bm
+844SP2CR0622,119.2,86,134,vn,q ca cor ine am py bm
+844SP3CP0566,145.85,80,68,HW,q corr cl py bm
+844SP3CP0566,123.7,66,290,vn,q corr cl py bm
+844SP3CR0549,139.9,89,224,FW,q corr cl py bm
+844SP3CR0549,143.3,87,223,HW,q corr cl py bm
+844SP3CR0549,22.33,72,58,vn,q ca py bm
+844SP3CR0549,22.71,80,221,vn,q ca py bm
+844SP3CR0549,26.57,48,285,vn,q ca py
+844SP3CR0549,136.1,68,274,vn,q cl py cor bm
+844SP3CR0549,150.81,70,147,vn,q corr cl py bm
+844SP3CR0549,156.4,82,187,vn,q corr cl py bm
+844SP3CR0553A,136.43,69,307,intvn,q cor cl py bm
+844SP3CR0553A,26.83,87,281,vn,q cor cl py bm
+844SP3CR0553A,140.8,57,247,vn,
+844SP3CR0553A,136.66,82,327,vn,q ine py
+844SP3CR0553A,137.89,65,270,vn,q py cor
+844SP3CR0553A,152.85,83,189,vn,q ca cor py bm
+844SP3CR0555,148.3,79,244,intvb,q cor py
+844SP3CR0555,23.06,85,265,vn,q ca
+844SP3CR0555,27.81,65,258,vn,q am
+844SP3CR0555,82.1,44,306,vn,q py
+844SP3CR0555,131.29,62,58,vn,q ca cor cl py bm
+844SP3CR0555,143.07,80,241,vn,q corr cl py bm
+844SP3CR0558,140.23,81,311,intvb,q cor am py
+844SP3CR0558,129.1,60,257,vn,q am py 
+844SP3CR0558,135.81,73,199,vn,q cor cl py bm
+844SP3CR0558,136.52,54,279,vn,q cor am py bm
+844SP3CR0558,137.77,58,269,vn,intvb
+844SP3CR0558,138.33,68,245,vn,q cor am py bm
+844SP3CR0559,160.76,69,273,FW,q cor py bm ine
+844SP3CR0559,161,71,289,intvn,q cor py bm ine
+844SP3CR0559,138.23,72,38,vn,q corr cl py bm
+844SP3CR0559,138.87,56,35,vn,q corr cl py bm
+844SP3CR0559,146.64,72,198,vn,q ca corr cl py bm
+844SP3CR0559,153.6,41,91,vn,q cl cor py
+844SP3CR0559,156.72,74,145,vn,q cor py bm
+844SP3CR0560,154.81,42,32,FW,q cor py
+844SP3CR0560,32.58,90,292,vn,
+844SP3CR0560,106.65,69,340,vn,silicic shear zone
+844SP3CR0560,129.56,85,266,vn,intvb
+844SP3CR0560,130.05,71,47,vn,intvb
+844SP3CR0560,130.72,60,220,vn,vein contact
+844SP3CR0560,135.25,76,229,vn,
+844SP3CR0560,135.7,86,259,vn,
+844SP3CR0560,149.67,84,93,vn,q cor am py bm
+844SP3CR0560,149.76,79,130,vn,q cor am py bm
+844SP3CR0560,152.8,50,104,vn,q cor am py bm
+844SP3CR0560,158.78,88,264,vn,q py am
+844SP4CG0583,106.7,73,94,splay,q cor cl py bm
+844SP4CG0583,119.67,72,93,splay,q cor cl py bm
+844SP4CG0583,106.7,73,94,vn,q am cor
+844SP4CG0583,109.37,85,124,vn,q ca
+844SP4CG0583,119.67,72,93,vn,q cor py bm
+844SP4CG0583,124.73,37,237,vn,q am cor py
+844SP4CG0583,128.26,67,304,vn,q cl py am
+844SP4CG0583,128.88,63,244,vn,q am
+844SP4CG0584,135.08,77,255,HW,q cor py bm
+844SP4CG0584,92.78,64,262,vn,q cor py ca
+844SP4CG0584,94,53,116,vn,q cor py ca
+844SP4CG0584,122.95,81,97,vn,q cor py am bm
+844SP4CG0584,211.7,54,255,vn,q ca py bm cl
+844SP4CG0589,91.5,86,240,vn,q ca
+844SP4CG0589,111.85,83,121,vn,q ca
+844SP4CG0589,113.3,84,49,vn,q py ine cor bm ca am
+844SP4CG0589,121.5,66,63,splay,q cor ca am py bm
+844SP4CG0589,130.4,87,90,splay,q cor am py bm
+844SP4CG0589,137.3,44,119,splay,q ca bm
+844SP4CG0589,140.7,62,128,FW,q bm cht cha ca am
+844SP4CG0589,143.97,79,57,HW,q bm cht cha ca am
+844SP4CG0591,111.13,81,86,FW,q cor am py bm
+844SP4CG0591,116.91,62,234,FW,q cor ca py bm
+844SP4CG0591,145.9,88,295,intvn,q cor am py bm
+844SP4CG0591,139.7,84,293,vn,q cor py bm
+844SP4CG0592,128.8,87,229,FW,q cor ca py bm
+844SP4CG0592,131.45,77,262,FW,q cor ca py bm
+844SP4CG0592,109.68,59,101,vn,q ca cor py bm
+844SP4CG0599,95.17,88,112,vn,q ca
+844SP4CG0599,113.74,71,78,HW,q py bm
+844SP4CG0599,127.1,61,74,intvn,q ca cor py bm
+844SP4CG0599,130.73,69,280,intvn,q ca cor py bm
+844SP4CG0600,55,73,91,vn,q ca
+844SP4CG0601,122.08,77,211,intvb,q ca cor py bm
+844SP4CG0601,123.64,86,308,intvb,q ca cor py bm
+844SP4CG0602,20.55,79,77,vn,q ca cor py bm
+844SP4CG0602,85.55,86,83,vn,q ca cor py bm
+844SP4CG0602,108.1,74,92,vn,q am cor py bm
+844SP4CG0602,114.25,81,319,vn,q am py
+844SP4CG0602,119.45,72,272,intvb,q cor py bm
+844SP4CG0602,123.7,76,89,intvn,q cor py bm
+844SP4CG0602,125,88,251,HW,q ca am cor py bm
+844SP4CG0602,143.27,52,124,vn,q am cor py bm
+844SP4CG0603,93.83,72,306,vn,q cor bm
+844SP4CG0603,127,61,283,intvn,q cor bm
+844SP4CG0603,128.9,60,110,intvn,q cor bm
+844SP4CG0605,99.13,87,122,vn,q py ca
+844SP4CG0605,107.8,50,64,vn,q ine py
+844SP4CG0605,109.2,84,123,vn,q ca
+844SP4CG0605,112.2,66,56,vn,q ca bm cor
+844SP4CG0605,128.88,80,125,intvn,q ca bm cor
+844SP4CG0605,132.36,83,72,intvn,
+844SP4CR0563,136.33,79,314,intvn,q py ca
+844SP4CR0563,138.31,68,321,HW,q py ca
+844SP4CR0563,92.25,55,137,vn,q ca am py
+844SP4CR0563,93.95,78,301,vn,q ca py
+844SP4CR0567,135.23,85,66,FW,q ca cor py bm
+844SP4CR0567,136.18,78,66,HW,q ca cor py bm
+844SP4CR0567,23.78,32,155,vn,q py ine cor bm
+844SP4CR0567,24.2,71,31,vn,q py ine cor bm
+844SP4CR0567,105.35,43,39,vn,intvb
+844SP4CR0567,113.04,90,69,vn,intvb
+844SP4CR0567,113.32,86,243,vn,q cor am py bm
+844SP4CR0567,113.78,88,62,vn,q cor am py bm
+844SP4CR0567,126.89,65,81,vn,q py ca
+844SP4CR0567,138.48,85,256,vn,q py
+844SP4CR0568,118.75,77,265,splay,
+844SP4CR0568,122.66,47,107,intvn,
+844SP4CR0568,5.95,52,71,vn,q ca am py
+844SP4CR0568,86.85,57,83,vn,q am cor py bm
+844SP4CR0568,110.6,53,86,vn,intvb
+844SP4CR0568,110.76,83,90,vn,intvb
+844SP4CR0568,113.2,73,85,vn,q am cor rf py bm
+844SP4CR0568,115.9,65,279,vn,intvb
+844SP4CR0568,118.75,77,265,vn,q py am
+844SP4CR0571,133.51,78,89,intvn,q ca cor py bm
+844SP4CR0571,134.84,65,280,intvb,q am ine
+844SP4CR0571,136.75,48,257,intvn,q am ine
+844SP4CR0571,39.3,82,295,vn,q py cor
+844SP4CR0571,118.6,60,84,vn,q ca cor py bm
+844SP4CR0571,131.59,85,114,vn,q ca cor py bm
+844SP4CR0571,120.2,52,93,vn,q ca cor py bm
+844SP4CR0571,139.9,80,277,vn,q am cor py bm
+844SP4CR0572,130.65,83,86,FW,q am cor ine py bm
+844SP4CR0572,140.15,63,87,HW,q am cor ine py bm
+844SP4CR0572,11.9,76,302,vn,q ca py
+844SP4CR0572,65.75,55,87,vn,q ca py
+844SP4CR0572,72.7,38,95,vn,q ca py
+844SP4CR0572,113.1,87,290,vn,q am cor ine py bm
+844SP4CR0572,113.24,81,279,vn,q am cor ine py bm
+844SP4CR0572,114,52,71,vn,q cor py bm
+844SP4CR0572,130.19,78,65,vn,q am cor py bm
+844SP4CR0572,132.25,81,93,vn,
+844SP4CR0572,155.82,80,99,vn,q ca py
+844SP4CR0572,135.27,86,84,vn,intvn
+844SP4CR0574,132.72,86,275,FW,q cor py bm ca
+844SP4CR0574,135.58,83,273,HW,q cor py bm ca
+844SP4CR0574,126.03,89,97,vn,intvn bx
+844SP4CR0574,126.8,85,280,vn,q cl cor py bm
+844SP4CR0575,147.68,88,77,FW,q cor py bm cht
+844SP4CR0575,36.52,83,111,vn,q am cor ine py bm
+844SP4CR0575,44.05,75,96,vn,q am py cor
+844SP4CR0575,104.5,58,86,vn,q ca ine py bm
+844SP4CR0575,108.95,44,260,vn,q ca py
+844SP4CR0575,116.34,59,260,vn,q am cor py bm
+844SP4CR0575,117.06,68,273,vn,q am cor py bm
+844SP4CR0575,123.87,77,290,vn,q am cor py bm
+844SP4CR0575,124.71,88,129,vn,q ca cor py bm
+844SP4CR0575,136.27,88,258,vn,q ca cor py bm cht
+844SP4CR0575,137.45,87,248,vn,q cor ine py bm
+844SP4CR0575,140.22,88,231,vn,q am cor py bm
+844SP4CR0575,144.95,70,269,vn,q ca cor py bm
+844SP4CR0577,163.04,77,265,FW,q ca am cor py bm cht
+844SP4CR0577,169.13,90,121,HW,q ca am cor py bm cht
+844SP4CR0577,170.51,79,83,HW,q ca am cor py bm cht
+844SP4CR0577,48.81,79,139,vn,q am cor ine py bm
+844SP4CR0577,49.52,80,148,vn,q am cor ine py bm
+844SP4CR0577,52.59,78,124,vn,q am cor ine py bm
+844SP4CR0577,66.51,88,252,vn,q cor py bm
+844SP4CR0577,77.5,77,293,vn,q am cor py bm
+844SP4CR0577,80.24,88,280,vn,qca
+844SP4CR0577,125.91,50,268,vn,q ca am cor py bm
+844SP4CR0577,138.82,53,116,vn,q ca
+844SP4CR0577,144.77,89,207,vn,q am cor py bm
+844SP4CR0577,146.53,76,269,vn,q cor py bm
+844SP4CR0578,162.89,86,237,FW,q ca ine py
+844SP4CR0578,163.61,71,235,intvn,q ca ine py
+844SP4CR0578,66.61,90,39,vn,q ca py
+844SP4CR0578,91.62,71,83,vn,q ca py
+844SP4CR0578,128.98,70,58,vn,q ca cor py bm
+844SP4CR0578,131.36,65,75,vn,q py cor 
+844SP4CR0578,136.43,88,104,vn,q ca cor ine py bm
+844SP4CR0578,163.61,71,235,vn,q ca ine py
+844SP5CG0642,79.55,89,225,vn,q ca am cor bm
+844SP5CG0642,83.76,73,57,intvn,q cha cor bm
+844SP5CG0642,87,79,117,vn,q ca py
+844SP5CG0642,87.88,90,94,FW,q cor bm
+844SP5CG0642,89.4,70,104,HW,q cor bm
+844SP5CG0642,92.79,87,247,vn,q cor bm
+844SP5CG0642,96.41,46,228,vn,q cor bm
+844SP5CG0642,101.82,88,70,vn,q ca ine cl bm
+844SP5CG0643,81.2,61,71,intvn,q py
+844SP5CG0643,82.91,89,74,intvn,q ca cor py bm
+844SP5CG0643,86.55,85,238,intvn,q ca cor py
+844SP5CG0643,100.55,69,63,intvb,q ca cor py bm
+844SP5CG0643,102.96,87,258,FW,q cor py bm
+844SP5CG0646,77.2,59,348,vn,q ca am cor py bm
+844SP5CG0646,83.6,87,11,vn,q ca cl ine bm
+844SP5CG0646,86.8,50,61,FW,q cor cl ca bm
+844SP5CG0646,88.36,43,36,intvb,q cor bm
+844SP5CG0646,88.9,31,13,HW,q cor cl ca bm
+844SP5CG0646,92.12,76,25,vn,q ca py
+844SP5CG0646,96.6,90,337,vn,q cor bm
+844SP5CG0646,100.64,78,166,vn,q cor bm
+844SP5CG0646,107.35,50,180,vn,q cor bm
+844SP5CG0647,55.1,44,77,vn,q ca
+844SP5CG0647,66.3,37,137,vn,q ca
+844SP5CG0647,74.74,75,117,vn,q am cor py bm
+844SP5CG0647,83.7,82,291,vn,q am py bm
+844SP5CG0647,84.21,72,102,vn,q am cor py bm
+844SP5CG0647,97.97,84,88,FW,q cor bm py cht
+844SP5CG0647,102.87,70,69,HW,q cor bm py cht
+844SP5CG0652,11.7,26,139,vn,q ca
+844SP5CG0652,66.61,52,91,vn,q ca cor bm
+844SP5CG0652,83.8,89,67,vn,q ca cor bm
+844SP5CG0652,97.24,80,263,vn,q ca ine bm
+844SP5CG0652,103.1,84,252,vn,q ca
+844SP5CG0652,104.52,60,73,FW,q ca cl am
+844SP5CG0652,116.8,75,81,HW,q cor ca py bm
+844SP5CG0653,42.6,77,325,vn,q ca
+844SP5CG0653,44.65,59,147,vn,q ca py
+844SP5CG0653,65.96,80,88,vn,q ca cor py bm
+844SP5CG0653,88.72,71,256,vn,q ca am py
+844SP5CG0653,105.6,70,239,intvn,q cor py bm
+844SP5CG0653,108.6,56,116,HW,q am py bm
+844SP5CG0661,13.3,67,132,vn,q ca
+844SP5CG0661,24.12,79,102,vn,q ca cl bm
+844SP5CG0661,57.8,82,330,vn,q ca
+844SP5CG0661,60.21,89,143,vn,q ca
+844SP5CG0661,79.38,55,83,vn,q ca
+844SP5CG0661,94.7,83,84,FW,q cor ine am py bm
+844SP5CG0661,97.38,79,121,intvb,q am cor bm
+844SP5CG0661,98.3,61,283,HW,q ca cl py bm
+844SP5CG0661,100.67,66,284,vn,q am ca bm
+844SP5CG0661,112.16,76,94,vn,q ca py bm
+844SP5CG0662,13.17,73,118,vn,q ca
+844SP5CG0662,15.75,71,88,vn,q ca
+844SP5CG0662,28.92,62,115,vn,q ca
+844SP5CG0662,87.96,80,73,vn,q ca py cht
+844SP5CG0662,93.84,56,189,vn,q cor py bm
+844SP5CG0662,95.72,63,104,vn,q am
+844SP5CG0662,103.72,80,104,vn,q ca py cor bm
+844SP5CG0662,105.41,90,66,vn,q cl py
+844SP5CG0663,13.5,55,103,vn,q ca
+844SP5CG0663,42.92,84,297,vn,q ca 
+844SP5CG0663,60.77,39,115,vn,q ca 
+844SP5CG0663,96.64,82,240,FW,q py
+844SP5CG0663,97.66,85,78,intvn,q py bm
+844SP5CG0663,105.08,45,93,vn,q cor py bm
+844SP5CG0663,106.8,67,123,vn,q cor py bm
+844SP5CG0663,107.8,78,132,vn,q cor py bm
+844SP5CG0668,21.85,47,119,vn,q ca
+844SP5CG0668,22.8,68,69,vn,q ca
+844SP5CG0668,46.37,86,115,vn,q ca
+844SP5CG0668,73.97,77,142,vn,q ca
+844SP5CG0668,83.7,69,145,vn,q ca py
+844SP5CG0668,84.4,85,348,vb,q
+844SP5CG0668,87.96,51,140,FW,q ca cor py bm cht
+844SP5CG0668,89.71,50,311,vn,q ca cor bm
+844SP5CG0668,107.36,90,247,vn,q am cor bm
+844SP5CG0668,109.13,89,55,vn,q am py cor ine
+844SP5CG0668,114.1,87,97,FW,q ca cor bm
+844SP5CG0668,117.3,68,76,intvn,q ca cor bm
+844SP5CR0569A,30.13,56,298,vn,sheared qca
+844SP5CR0569A,60.92,57,117,vn,qpy am
+844SP5CR0569A,79.49,79,110,vn,q am py cl ca
+844SP5CR0569A,81.73,81,264,vn,q am py cl ca
+844SP5CR0569A,93.23,63,92,intvn,q cor py bm
+844SP5CR0569A,95.87,66,85,HW,q cor py bm
+844SP5CR0570,93.38,84,60,FW,
+844SP5CR0570,85,77,142,vn,q ca py
+844SP5CR0570,86,70,102,vn,
+844SP5CR0570,86.8,84,286,vn,
+844SP5CR0570,94.06,61,83,vn,
+844SP5CR0580,109.96,67,239,HW,q ca am cor py bm
+844SP5CR0580,5.77,81,115,vn,q ca py
+844SP5CR0580,87.62,76,96,vn,q ca py
+844SP5CR0585,116.4,61,129,intvn,q cor py bm
+844SP5CR0585,92.29,63,164,vn,q ca cor py bm ine
+844SP5CR0586,88.45,84,253,intvb,q cor py bm
+844SP5CR0586,94.7,90,286,HW,q cor py bm
+844SP5CR0586,118.64,75,217,FW,q ca am cor py bm
+844SP5CR0586,121.1,88,277,FW,q ca ine cor py bm
+844SP5CR0586,69.48,82,274,vn,q ca am cor py bm
+844SP5CR0586,75.3,79,121,vn,q ca am cor py bm
+844SP5CR0593,85.08,74,118,FW,q ca cl cor py bm
+844SP5CR0593,113.78,28,301,splay,q ca cor py bm
+844SP5CR0593,115.81,83,283,vn,q ca cor py bm
+844SP5CR0593,134.68,77,290,vn,q ca cl py
+844SP5CR0594,14.62,38,182,vn,q ca bm cor
+844SP5CR0594,28.4,37,158,vn,q ca bm cor
+844SP5CR0594,35.95,63,110,vn,q py ca
+844SP5CR0594,38.45,54,164,vn,q py ca
+844SP5CR0594,82.39,60,91,vn,q py ca
+844SP5CR0594,85.7,81,302,vn,q py ca
+844SP5CR0594,98.08,61,78,vn,q py ca
+844SP5CR0594,100.78,67,112,FW,q py ca ine bm
+844SP5CR0594,110.64,51,272,intvn,q cor bm py
+844SP5CR0594,113,83,85,HW,q cor ine bm py
+844SP5CR0594,123.25,67,145,splay,q ca py
+844SP5CR0594,124.75,82,280,splay,q ca py cl
+844SP5CR0637,14.08,86,151,vn, q ca
+844SP5CR0637,41.1,82,146,vn, q ca
+844SP5CR0637,56.33,85,336,vn, q ca
+844SP5CR0637,64.78,68,273,vn,q ca py cl bm
+844SP5CR0637,75.84,76,124,vn,q ca py
+844SP5CR0637,78.78,77,321,vn,q ca py
+844SP5CR0637,85.24,63,83,vn,q ca py
+844SP5CR0637,98.97,61,121,FW,q cor ine bm py
+844SP5CR0637,105.57,88,61,vn,q ca py
+844SP5CR0637,114.66,50,281,vn,q ca py
+844SP5CR0637,119.78,87,115,HW,q ca py cl
+844SP7CR0579,49.35,46,118,intvn,q ca py rf bm
+844SP7CR0579,50.33,56,129,intvn,q ca py rf bm
+844SP7CR0581A,111.17,53,99,FW,q ca am cor py bm
+844SP7CR0581A,123.29,82,253,intvn,q cor py bm am
+844SP7CR0581A,139.6,80,81,vn,q py cor bm
+844SP7CR0582,108.9,51,120,HW,q ca py
+844SP7CR0582,112.99,59,129,intvn,q ca py cor bm
+844SP7CR0582,53.9,40,120,vn,q ca py cor bm
+844SP7CR0582,90.51,67,119,vn,q ca cor py bm ine
+844SP7CR0587,10.46,48,162,vn,q py cor bm ca
+844SP7CR0587,15.54,86,174,vn,q ca am cor py bm
+844SP7CR0587,57.3,82,105,vn,q ca
+844SP7CR0588,42.49,81,132,intvn,q cor py bm
+844SP7CR0588,84.2,54,169,vn,
+844SP7CR0590,71.09,89,116,vn,q py
+844SP7CR0590,86.96,56,289,vn,q py
+844SP7CR0595,64.13,79,133,intvb,q ca
+844SP7CR0595,102.56,45,61,vn,
+844SP7CR0596,46.3,45,85,vn,q cor py bm
+844SP7CR0604,57,82,274,vn,q ca cor py bm ine
+844SP7CR0604,57.34,74,89,FW,q cor py bm
+844SP7CR0606,8.1,82,110,vn,q ca py
+844SP7CR0606,39.62,87,272,vn,q ca py
+844SP7CR0606,63.77,63,91,vn,q ca py
+844SP7CR0606,79.45,61,111,intvn,q cor py bm
+844SP7CR0606,85.2,64,242,intvn,q cor py bm
+844SP7CR0606,93.83,66,245,FW,q cor py bm
+844SP7CR0606,116.95,76,153,vn,q py bm
+844SP7CR0610,68.73,67,100,FW,q bm ine
+844SP7CR0610,69.18,64,86,intvb,q cor ine bm py
+844SP7CR0610,73.06,83,165,vn,q py
+844SP7CR0610,89.35,65,95,intvb,q cor py bm
+844SP7CR0610,96.51,62,86,intvn,q cor py bm
+844SP7CR0610,102.7,73,112,vn,q ca
+844SP7CR0610,103.7,88,119,intvb,q cor py bm
+844SP7CR0615,84.49,72,104,FW,q cor py bm
+844SP7CR0615,95,69,123,HW,q cor py bm
+844SP7CR0618,0.81,60,17,vn,q cor py bm
+844SP7CR0618,13.08,89,310,vn,q ca
+844SP7CR0618,83.74,65,88,vn,q ca
+844SP7SP0672,11.89,87,125,vn,q ca
+844SP7SP0672,65.93,84,296,vn,q ca cl py
+844SP7SP0672,67.78,56,229,sh,q cl py
+844SP7SP0672,67.95,74,221,FW,q cl py
+844SP7SP0672,70.33,60,108,intvb,q cor py bm
+844SP7SP0672,71.14,58,96,intvn,q ca
+844SP7SP0672,77.18,58,208,vn,q ca
+844SP7SP0672,79.61,58,72,FW,q py bm
+844SP7SP0672,81.86,69,70,HW,q cor py bm
+844SP8CR0625,86.4,86,141,vn,q ca
+844SP8CR0625,87.75,74,91,vn,FW
+844SP8CR0625,88.75,75,124,intvb,q cor py bm
+844SP8CR0625,90.9,62,98,intvb,
+844SP8CR0626,14.08,82,131,vn,q py ine
+844SP8CR0626,15.65,74,107,vn,q ca
+844SP8CR0626,23.9,52,310,vn,q ine am
+844SP8CR0626,26.49,79,298,vn,q ca cht py
+844SP8CR0626,28.86,77,305,vn,q ca 
+844SP8CR0626,102.09,24,272,vn,q ca py
+844SP8CR0626,105.8,84,116,vn,q ca
+844SP8CR0626,105.84,60,89,FW,q py cor bm ca
+844SP8CR0626,109.62,57,73,HW,q cl ca py bm
+844SP8CR0629,10.04,63,291,vn,q ca sl
+844SP8CR0629,11.81,87,282,vn,q am cl py ca
+844SP8CR0629,14.1,81,119,vn,ca q
+844SP8CR0629,21.37,77,109,vn,q ca ine py
+844SP8CR0629,118.84,83,105,FW,q cor bm
+844SP8CR0629,122.27,66,70,intvb,q cor bm
+844SP8CR0629,124.14,54,78,intvn,q cor py ca
+844SP8CR0629,128.45,41,112,vn,q cor bm
+844SP8CR0629,144.42,74,281,vn,q cor bm
+844SP8CR0630,4.27,67,194,vn,q am cor py
+844SP8CR0630,6,86,318,vn,q cor py bm
+844SP8CR0630,6.7,73,303,vn,q ca
+844SP8CR0630,12.86,73,303,vn,q ca
+844SP8CR0630,79.46,89,110,intvn,q ca
+844SP8CR0634,31.27,78,111,vn,q ca py
+844SP8CR0634,34.06,81,101,vn,q ca py
+844SP8CR0634,88.22,75,282,FW,q ca cl cor py bm
+844SP8CR0635,60,76,88,vn,q ca
+844SP8CR0635,110.04,71,118,vn,q ca py
+844SP8CR0635,113.33,65,93,FW,q ca bm
+844SP8CR0635,114.74,64,99,HW,q cl bm
+844SP8CR0640,48.7,83,109,vn,ca q
+844SP8CR0640,130.2,85,90,FW,q py
+CGD003,334.56,87,281,FW,q py cor chl bm ine
+CGD003,336.15,86,92,HW,q py cor chl bm ine
+UW214,369.97,88,309,vn,q
+UW214,395.22,78,237,vn,q cor bm
+UW218,411.03,60,103,HW,q cor cl py
+UW218,414.26,18,198,FW,q cor cl py
+UW218,483.23,57,66,vn,q ca
+UW218,483.63,51,100,vb,q ca
+UW222,452.52,81,308,vb,q cor bm
+UW222,481.76,87,276,intvn,q cor bm
+UW222,473.93,80,287,intvn,q cor bm
+UW310,304.95,47,350,vn,
+UW310,436.5,87,251,HW,
+UW313,404.65,80,273,HW,
+UW313,362.94,90,78,vn,crx-bnd - q ine minor cor
+UW313,365.65,77,205,vn,crx-bnd - q ine minor cor
+UW313,373.93,76,277,vn,stwk
+UW313,375.98,63,300,vn,stwk
+UW313,384.4,89,270,vn, q cor
+UW320,461.7,86,96,HW,q cor bm ca
+UW320,438.5,74,95,vn,q cor bm ca
+UW320,450.15,58,102,vn,q cor bm ca
+UW320,451.6,84,65,vn,
+UW328,347.95,87,90,FW,q ca cor py bm
+UW328,352.1,73,78,intvn,q ca
+UW328,362.9,74,298,link,q ca ine cor py
+UW328,363.6,50,319,link,q am ine cor py
+UW328,365.75,67,300,link,q  ca py
+UW328,367.62,47,291,FW,q cor py bm
+UW328,370.48,39,272,intvn,q cor py bm
+UW328,373.45,42,283,intvn,q cor py bm
+UW328,391.8,81,284,vn,q ca cor bm
+UW339,549.07,58,277,vn,q cor py bm
+UW339,551.2,60,331,vn,q cor py bm
+UW339,580,73,282,vn,q cor py bm
+UW339,581.7,89,126,vn,q cor py bm
+UW339,593,86,115,vn,q cor py bm
+UW339,633,73,143,vb,q cor py bm
+UW339,666,88,245,HW,q cor py bm
+UW344,248.8,78,291,vn,q lim
+UW344,254.4,85,293,FW,q cor lim py bm
+UW344A,358.2,68,270,FW,q cor py
+UW344A,363.2,80,256,intvb,q cor py
+UW346,230.08,85,63,FW,q cor py bm
+UW346,232.75,78,246,HW,q cor py bm
+UW346,244.81,80,243,vn,crx
+UW346,254.62,74,252,vn,crx
+UW346,257.69,77,297,vn,crx
+UW347,473.7,72,282,vn,q cor py bm
+UW347,506.5,84,115,vn,q am bm py
+UW348,301.45,82,263,intvb,q cor ca py bm
+UW348,304.4,86,302,HW,q cor ca py bm
+UW348,297.77,83,133,vn,q ca py vn
+UW348,298.9,86,265,vn,q ca py vb
+UW348,311.33,86,243,vn,q ca hbx
+UW348,322.4,83,267,vn,q ca 
+UW348,338.84,62,49,vn,q
+UW349,340,37,135,FW,
+UW349,366.04,68,91,FW,q cor py bm
+UW349,358.5,55,147,HW,
+UW349,462.28,48,158,vn,q py cha
+UW349,340.49,54,157,vn,q cor bm
+UW349,540.39,53,253,vn,q cor bm
+UW358A,204.4,78,302,vn,q cor
+UW360,437.25,72,115,intvb,
+UW360,444.58,89,104,intvb,
+UW360,391.47,64,285,vn,
+UW360,420.75,84,256,vn,q ca am corr py
+UW360,424.6,81,113,vn,q ca am corr py
+UW360,425.57,89,285,vn,q cor bm cl
+UW361A,426.53,73,84,FW,q cor bm
+UW361A,429.6,84,127,intvn,q cor bm
+UW361A,444.8,89,111,vn,q cor bm
+UW362,387.4,71,167,intvn,q cor bm
+UW362,279.77,39,160,vn,q ca
+UW364,440.21,66,71,intvb,q py
+UW364,442.22,66,83,vn,q ca
+UW365,497.85,60,111,vn,q bm
+UW368,503.01,66,256,intvb,q ca py cor bm
+UW368,515.27,80,141,HW,q ca py cor bm
+UW368,289.55,72,347,vn,q ca cor rf py bm
+UW368,293.54,69,5,vn,q am py ine ca bm
+UW368,406.94,82,324,vn,q am ine cor
+UW368,408.28,83,334,vn,q ca cl py
+UW368,498.78,77,121,vn,
+UW369,502.47,45,79,HW,q py bm cor
+UW372,342.6,77,290,HW,q py bm cor
+UW372,347.49,53,202,intvn,q py bm cor
+UW372,345.07,77,67,intvn,q py bm cor
+UW372,372.75,68,292,vn,q am cor ca bm ine
+UW372,377.78,23,302,vn,q am cor ca bm ine
+UW372,374.23,63,288,vn,q am py bm ine
+UW375,465.79,81,250,sh,
+UW375,473.79,89,280,HW,q py bm cor
+UW376,367.7,77,68,FW,
+UW376,342.76,58,243,vn,q ca
+UW376,350.34,76,289,vn,q ca
+UW379,463.6,86,282,HW,
+UW379,469,90,284,FW,
+UW379,473.9,68,124,,
+UW380,274.66,72,301,HW,
+UW380,276.14,55,269,FW,
+UW380,299.34,65,312,vn,q lim 
+UW380,302.87,89,85,vn,q cor am
+UW380,336.47,49,345,vn,q am cl ine py
+UW380,378.25,54,269,vn,q am py bm cor ine
+UW381,405.98,79,59,FW,q cor bm
+UW381,424.52,88,49,HW,q cor bm
+UW381,394.62,77,294,vn,q am cl py
+UW384,505.7,85,8,vn,q ca py
+UW384,497.8,41,104,vn,ca q
+UW385,424.97,69,106,FW,q ca py bm cor ine
+UW385,445,69,109,FW,q cor
+UW386,367.76,71,236,vn,q ca am cor bm
+UW386,370.25,77,105,vn,q ca am cor bm
+UW386,373.8,87,129,vn,q cor bm
+UW386,383.21,90,95,vn,q ca am cor bm
+UW386,386.88,89,264,vn,q cor bm
+UW386,391.42,85,293,vn,q ca am cor bm
+UW386,393.81,86,69,intvn,q py
+UW390,367.51,68,117,FW,
+UW390,368.1,85,104,intvn,
+UW390,411.45,72,10,vn,q am ca cor py bm
+UW390,411.6,80,9,vn,q am ca cor py bm
+UW390,382.17,86,276,vn,q py
+UW392,338.86,65,302,vn,q am ca cor py bm
+UW392,394.05,76,254,FW,q cor bm
+UW392,403.2,81,258,HW,q cor bm
+UW393,271.75,81,68,FW,q py bm cor
+UW393,272.9,86,67,HW,q py bm cor
+UW393,321.15,58,77,FW,q ca ine
+UW393,332.1,54,97,FW,q ca q py
+UW398,349.25,61,86,HW,q cor bm
+UW398,364.77,46,89,FW,q cor bm
+UW399,321,82,261,vn,q ca am
+UW399,325.84,78,67,vn,q ca
+UW399,327.44,84,118,vn,q cor py bm
+UW399,338.5,65,244,vn,q cor py bm
+UW399,342.34,60,290,vn,q ca cor ine py bm
+UW399,345.99,66,283,vn,q ca cor py bm
+UW399,369.37,80,284,FW,q py bm cor
+UW399,372.6,84,76,intvn,q py bm cor
+UW400,429.55,86,76,vn,q py bm cor
+UW400,446.55,69,118,HW,q py bm cor
+UW400,459.4,72,96,FW,q ca py bm cor
+UW400,431.38,89,146,vn,q ca cor py bm
+UW401,348,51,97,vn,q ca py
+UW401,360.48,81,107,HW,q cor py bm
+UW401,371.5,55,81,FW,q ca cor py bm
+UW402,285.58,61,345,vn,q ca py cor bm
+UW402,287.58,75,355,vn,q ca py cor bm
+UW402,497.4,79,326,vn,q cor py bm
+UW413,475.1,44,107,HW,q cor py bm
+UW413,476.1,78,73,intvb,q cor py bm
+UW413,535.2,54,155,vn,q cl py
